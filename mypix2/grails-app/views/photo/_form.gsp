@@ -65,6 +65,7 @@
 
 </div>
 
+<%-- 
 <div class="fieldcontain ${hasErrors(bean: photoInstance, field: 'fileType', 'error')} ">
 	<label for="fileType">
 		<g:message code="photo.fileType.label" default="File Type" />
@@ -118,4 +119,4 @@
 	<g:checkBox name="browserFriendly" value="${photoInstance?.browserFriendly}" />
 
 </div>
-
+--%>
